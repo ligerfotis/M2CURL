@@ -67,7 +67,7 @@ class TactileSensor:
         saved_file_dir = os.path.join(
             border_images_path,
             self.t_s_type,
-            str(self.image_size[0]) + "x" + str(self.image_size[0]),
+            str(self.image_size[0]) + "x" + str(self.image_size[1]),
         )
 
         nodef_gray_savefile = os.path.join(saved_file_dir, "nodef_gray.npy")
