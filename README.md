@@ -113,12 +113,14 @@ Replace the arguments `-A`, `-E`, `-O`, and `--total_timesteps` with your desire
 Cite this work as:
 
 ```
-@misc{lygerakis2024m2curl,
-title={M2CURL: Sample-Efficient Multimodal Reinforcement Learning via Self-Supervised Representation Learning for Robotic Manipulation},
-author={Fotios Lygerakis and Vedant Dave and Elmar Rueckert},
-year={2024},
-eprint={2401.17032},
-archivePrefix={arXiv},
-primaryClass={cs.RO}
-}
+@INPROCEEDINGS{10597462,
+  author={Lygerakis, Fotios and Dave, Vedant and Rueckert, Elmar},
+  booktitle={2024 21st International Conference on Ubiquitous Robots (UR)}, 
+  title={M2CURL: Sample-Efficient Multimodal Reinforcement Learning via Self-Supervised Representation Learning for Robotic Manipulation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={490-497},
+  keywords={Representation learning;Visualization;Heuristic algorithms;Scalability;Reinforcement learning;Self-supervised learning;Robot sensing systems},
+  doi={10.1109/UR61395.2024.10597462}}
 ```
